@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: helvetica sans-serif;
+  font-family: "helvetica", sans-serif;
 }
 
 h1 {
@@ -26,6 +26,11 @@ font-size: 14px;
   font-size: 70px;
   font-weight: bold;
 
+}
+
+.main h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
 
 .btn-nav {
